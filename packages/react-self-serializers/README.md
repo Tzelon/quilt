@@ -92,3 +92,15 @@ function App({locale}: {locale?: string}) {
   return <I18n locale={locale}>{/* rest of the app */}</I18n>;
 }
 ```
+
+### GraphQL
+
+tbd
+
+#### Props
+
+tbd
+
+#### Example
+
+tbd
